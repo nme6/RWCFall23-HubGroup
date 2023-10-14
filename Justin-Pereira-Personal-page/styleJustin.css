@@ -1,0 +1,13 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1{
+  color: #25768f;}
+h2 {text-decoration: underline;}
+
+h3{text-decoration: underline;}
+
+h4{text-decoration: underline;}
+a:hover {color: orange}
